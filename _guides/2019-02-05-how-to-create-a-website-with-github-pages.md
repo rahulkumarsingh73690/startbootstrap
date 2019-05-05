@@ -23,7 +23,7 @@ meta-description: "A beginners guide to publishing a website using themes from S
 
 ### Introduction
 
-GitHub Pages is a great way to get a simple, static website published online - especially when you use a predesigned theme from Start Bootstrap! There are plenty of benefits to having your code on GitHub, but for the purposes of this guide, the major bonus is that you can host a static website for free! So let’s get started!
+GitHub Pages is a great way to get a simple, static website published online - especially when you use a pre-designed theme from Start Bootstrap! There are plenty of benefits to having your code on GitHub, but for the purposes of this guide, the major bonus is that you can host a static website for free! So let’s get started!
 
 ### Step 1: Create a GitHub account
 
@@ -79,7 +79,7 @@ Now, if you go to your repository on GitHub, you will see that the changes have 
 
 Your changes have been committed and pushed to the master branch of your repository, but when using GitHub pages, the files in the gh-pages branch are the ones that are hosted. That means we need to merge the modified files from the master branch into gh-pages branch!
 
-Merging your master branch into gh-pages takes a few steps. First you will need to go to your repo and click on the ‘New pull request’ button - make sure your master branch is selected!
+Merging your master branch into gh-pages takes a few steps. First, you will need to go to your repo and click on the ‘New pull request’ button - make sure your master branch is selected!
 
 <img class="img-fluid rounded shadow" src="/assets/img/guides/create-website/pull-request.jpg">
 
